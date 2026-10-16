@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="patrick@hartforge in a tmux window: homelab, mods, agents, art" width="100%">
+  <img src="https://raw.githubusercontent.com/patrickhere/patrickhere/main/assets/banner.png" alt="patrick@hartforge in a tmux window: homelab, mods, agents, art" width="100%">
 </p>
 
 <p align="center">
@@ -32,11 +32,11 @@ minecraft mods and modpacks i make for the fun of it, all neoforge 1.21.1, with 
 
 ### [ forge status ]
 
-<a href="https://status.hartforge.dev"><img src="assets/status.svg" alt="forge status: hartforge.com, hartforge.dev, forgejo and opengist" width="100%"></a>
+<a href="https://status.hartforge.dev"><img src="https://raw.githubusercontent.com/patrickhere/patrickhere/main/assets/status.svg" alt="forge status: hartforge.com, hartforge.dev, forgejo and opengist" width="100%"></a>
 
 ### [ activity ]
 
-<img src="assets/activity.svg" alt="contributions over the last 12 months from forgejo and github" width="100%">
+<img src="https://raw.githubusercontent.com/patrickhere/patrickhere/main/assets/activity.svg" alt="contributions over the last 12 months from forgejo and github" width="100%">
 
 <sub>drawn by a script on my own hardware once a week, from forgejo and github together, so the commits that never touch github still count.</sub>
 
