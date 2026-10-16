@@ -16,7 +16,7 @@ patrick@hartforge:~$ whoami
 patrick hart - homelabber, modder, tinkerer
 ```
 
-i build things that run on my own hardware and write down how they work. most of it ends up at **[hartforge.com](https://hartforge.com)**.
+i build things that run on my own hardware and write down how they work. most of it ends up at [hartforge.com](https://hartforge.com).
 
 ### [ the forge ]
 
@@ -26,9 +26,9 @@ my homelab, run like production: proxmox and bare metal nixos boxes, self-hosted
 
 minecraft mods and modpacks i make for the fun of it, all neoforge 1.21.1, with the pixel art done by hand.
 
-- **[plinthworks](https://github.com/cinderworks-mc/plinthworks)** - pedestals you teach with sigils to move items, energy, fluids and xp
-- **[nullspace](https://github.com/cinderworks-mc/nullspace)** - a tempad addon that gives every player a pocket workshop room
-- **[the foundry](https://modrinth.com/modpack/the-foundry-pack)** - the modpack that ties it together
+- [plinthworks](https://github.com/cinderworks-mc/plinthworks): pedestals you teach with sigils to move items, energy, fluids and xp
+- [nullspace](https://github.com/cinderworks-mc/nullspace): a tempad addon that gives every player a pocket workshop room
+- [the foundry](https://modrinth.com/modpack/the-foundry-pack): the modpack that ties it together
 
 ### [ forge status ]
 
