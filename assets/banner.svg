@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320">
+  <rect width="1280" height="320" fill="#0f1113"/>
+  <!-- blueprint grid -->
+  <g stroke="#6d90ac" stroke-opacity="0.07" stroke-width="1">
+    <path d="M0 32H1280M0 64H1280M0 96H1280M0 128H1280M0 160H1280M0 192H1280M0 224H1280M0 256H1280M0 288H1280"/>
+    <path d="M64 0V320M128 0V320M192 0V320M256 0V320M320 0V320M384 0V320M448 0V320M512 0V320M576 0V320M640 0V320M704 0V320M768 0V320M832 0V320M896 0V320M960 0V320M1024 0V320M1088 0V320M1152 0V320M1216 0V320"/>
+  </g>
+  <!-- frame -->
+  <rect x="16.5" y="16.5" width="1247" height="287" fill="none" stroke="#2b2f33" stroke-width="1"/>
+  <g stroke="#6d90ac" stroke-width="1.5" fill="none">
+    <path d="M16 40V16H40M1240 16H1264V40M1264 280V304H1240M40 304H16V280"/>
+  </g>
+  <!-- spark mark: four point ember star -->
+  <path d="M148 92 L162 146 L216 160 L162 174 L148 228 L134 174 L80 160 L134 146 Z" fill="#ff6a1f"/>
+  <!-- wordmark -->
+  <text x="262" y="166" font-family="'SF Mono','JetBrains Mono',Menlo,Consolas,monospace" font-size="68" font-weight="700" letter-spacing="20" fill="#e7eaec">HART FORGE</text>
+  <text x="264" y="212" font-family="'SF Mono','JetBrains Mono',Menlo,Consolas,monospace" font-size="22" fill="#a3a9ad">infrastructure engineer  /  sysadmin  /  tinkerer</text>
+  <!-- labels -->
+  <text x="48" y="58" font-family="'SF Mono','JetBrains Mono',Menlo,Consolas,monospace" font-size="15" letter-spacing="3" fill="#6d90ac">[ PATRICK HART ]</text>
+  <text x="1232" y="58" text-anchor="end" font-family="'SF Mono','JetBrains Mono',Menlo,Consolas,monospace" font-size="15" letter-spacing="3" fill="#6b7075">AUSTIN, TX</text>
+  <!-- bottom rule with dimension ticks -->
+  <path d="M48 270H1232" stroke="#2b2f33" stroke-width="1"/>
+  <g stroke="#6d90ac" stroke-width="1">
+    <path d="M48 264V276M368 266V274M688 266V274M1008 266V274M1232 264V276"/>
+  </g>
+  <text x="48" y="294" font-family="'SF Mono','JetBrains Mono',Menlo,Consolas,monospace" font-size="13" letter-spacing="2" fill="#6b7075">bank branches by day, homelab by night</text>
+</svg>
